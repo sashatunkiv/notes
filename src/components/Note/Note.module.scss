@@ -1,0 +1,40 @@
+.note {
+    padding: 30px;
+    h2{
+        padding-bottom: 15px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    
+}
+.edit {
+    input {
+        background: linear-gradient(180deg, #FFFFFF 0%, #F4F4F4 100%);
+      border: 1px solid #C8C8C8;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      padding: 25px;
+      width: 80%;
+      margin-bottom: 30px;
+    }
+    textarea {
+        background: linear-gradient(180deg, #FFFFFF 0%, #F4F4F4 100%);
+      border: 1px solid #C8C8C8;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      padding: 25px;
+      width: 80%;
+      margin-bottom: 30px;
+    }
+    button {
+        background: linear-gradient(180deg, #FFFFFF 0%, #F4F4F4 100%);
+      border: 1px solid #C8C8C8;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+      padding: 5px;
+      margin-bottom: 5px;
+    }
+    }

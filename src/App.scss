@@ -1,0 +1,36 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.slideleft {
+  display: flex;
+  flex-direction: column;
+  min-width: 10%;
+
+  li {
+    padding: 10px;
+    &:hover {
+      background: #c1c1c1;
+    }
+    &:active {
+      background: #c1c1c1;
+    }
+  }
+}
+
+.sideright {
+  min-width: 90%;
+}
+
